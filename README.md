@@ -1,13 +1,12 @@
-# WRPI.org - The Upstate Underground's Homepage
-Hello! This is the project page for [WRPI.org](http://wrpi.org), the website for Rensselaer Polytechnic Institute's independent, student-run radio station
-located in Troy, NY. We broadcast on 91.5 FM in a ~75-mile radius out from the Albany, NY metro area. If you'd like to contribute to the project, read on :)
+# Design Refactor
 
-## How to Contribute
-Clone our Git repo, make your changes, and make a pull request documenting your changes *as extensively as possible.* Your changes will
-be carefully inspected and you may be asked to speak to specific aspects of your work. We greatly appreciate contributions, and know
-that your work will be immediately apparent to the dedicated WRPI listeners of New York's Capital Region!
+## Goals
+- Left-aligning the site and adding more content to fill in the right side
+- Add a section for recorded content, like interviews and WRPI Live Dept. sessions
+- JavaScript requires checking and refactoring
+- Polish menu buttons (see Issue #12)
+- Footer alignment should also be checked (see Issue #13)
 
-## Issues
-Please open an issue if you have any functional issues with the website. If an identical or similar issue already exists, please add a 
-comment to the existing issue describing your experience. Feel free to try your hand at fixing the issue yourself, and make a PR if you
-manage to fix it!
+## Relevant Issues
+- [Issue #12 - Menu buttons don't retain selected color on mouse-off](https://github.com/khealio/wrpi-website/issues/12)
+- [Issues #13 - Footer appears at the bottom of content, not at the absolute bottom of the page](https://github.com/khealio/wrpi-website/issues/13)
